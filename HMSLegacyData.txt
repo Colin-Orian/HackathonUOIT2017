@@ -1,0 +1,5860 @@
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||15d||Top of the tree||Jeroh||Red||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166576.5||223.1||205.2||230.0
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||12b||Curious Group||73rd System of the Alans||Green||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166558.0||277.1||266.5||258.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1||Vortopia||Umbalo||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166534.9||371.0||344.5||313.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||2||El segundo||El segundo||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166538.6||332.6||321.3||298.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||3||Alteri||Alteri||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166548.0||319.7||283.8||263.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||211||Lennon||Lennon||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166592.9||387.6||154.7||204.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||164||Nihonmatsuba||Nihonmatsuba||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166538.1||350,5||356,7||309,6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||151||Storm Star||Storm Star||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166594.8||350.5||336.7||309.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||163||Prehistory||Carmine ZV||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166574.5||103.9||306.0||347.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||FB||Morning Glory||Morning Glory||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166580.0||117.5||300.9||343.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||E7||Exotic Star||Exotic Star||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166572.7||120.5||309.0||342.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||11B||Harshmellow II||Hibu-Jibi||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166545.1||348.8||320.4||293.0
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||BB||Skyrim||Dayglow ZV||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166540.7||347.8||336.5||309.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||66||Verdugo ZV||Verdugo ZV||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166534.6||363.1||342.1||312.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||20A||De Brutus||Kikarat||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166581.5||123.0||351.1||408.0
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||2||CA||Tropius II||Tropius II||Blue||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166532.7||441.3||482.4||518.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||CE||Mojo Rising||Lotus||Blue||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166523.6||418.1||427.1||447.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||4C||Roishijonami||Roishijonami||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166597.6||376.5||114.8||171.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||AB||Seastar||Seastar||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166528.1||386.4||416.5||442.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||132||Ghost||Ghost||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166573.9||56.5||379.1||426.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||14C||J Garcia||Mitsudamat||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166568.7||35.1||389.2||434.0
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||C0||Shipyard Star||Shipyard Star||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166570.4||104.6||368.3||401.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1DD||TemeriumMine||Acquisition||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166572.2||108.4||310.5||358.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||F1||Beetle Star||Beetle Star||Blue||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166598.2||169.3||431.8||486.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1F7||Aioiketiko||Aioiketiko||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166571.1||100.6||329.9||379.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||16A||Zoology Star||Zoology Star||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166581.1||105.9||320.2||371.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||E2||Strata||Strata||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166570.5||68.8||365.1||403.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1F5||De Caesarus||De Caesarus||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166573.1||79.3||350.1||399.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||A4||Chevronech||Chevronech||Blue||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166597.9||455.9||134.0||70.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||95||Polizeistaat||Polizeistaat||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166584.3||116.7||352.4||395.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1FA||Darkspace||Darkspace||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166620.5||378.6||177.3||251.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||139||Whiteout||Whiteout||Green||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166608.8||301.4||144.5||215.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||8||7A||Nerevkarovgra||Nerevkarovgra||Blue||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166511.0||324.3||405.8||395.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||19C||Obihiroish I||Obihiroish I||Green||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166579.0||108.6||319.2||371.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1B0||Gurheldzeen||Mabokuchiko XV||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166587.3||141.6||344||403.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||8E||Vega||Niza||Blue||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166576.8||101.5||410.3||450.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1CB||Jefferson Starship||Mariderare VII||Blue||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166573.0||87.6||347.2||397.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||135||Cribber||Cribber||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166579.9||105.8||309.6||356.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||124||Setouchito-Oslan||Setouchito-Oslan||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166588.6||148.9||274.3||325.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||125||Lambolia||Lambolia||Blue||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166581.8||155.8||257.7||298.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||155||Yoda||Yoda||Blue||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166570.1||153.4||270.0||300.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||156||Nayorozawat II||TwiceOne||Blue||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166613.4||301.0||153.4||209.73
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||C4||Zumois||Zumois||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166624.6||320.2||224.9||269.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||AD||Ganja||Ganja||Green||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166533.7||440.1||430.6||458.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||148||Iokazunomi||Iokazunomi||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166606.1||395.7||11.2||78.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1d9||Rayamakura-Sepp||Rayamakura-Sepp||Blue||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166571.6||305.2||156.0||171.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||195||R-Waters||Zezodi||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166563.4||273.1||205.6||209.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||141||Lupine System||Lupine System||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166543.9||291.4||328.3||314.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||15F||Jaxx aka The Puppist||Centori Azsar||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166543.8||302.7||321.8||305.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1E5||Aneur||Aneur||Blue||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166537.9||299.9||327.8||312.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||20F||Antoseigel||Antoseigel||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166536.9||295.8||315.3||302.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||201||Palpatine||Palpatine||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166537.2||318.3||318.6||299.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||A9||MurrineFields||Gara-Saja||Red||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166575.5||69.1||390.8||435.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||94||Shaman I||Kayotako||Blue||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166633.8||360.7||249.7||293.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1FB||Mace||Mace||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166557.9||259.2||223.0||237.0
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1F3||Deadstar II||Lonely Ice Forest||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166591.3||425.2||96.4||107.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||F6||The Four Fates||The Four Fates||Green||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166617.6||364.4||166.0||188.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1FE||Starfox Territory 2||Starfox Territory 2||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166560.5||278.4||206.7||221.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1C8||Yodawatama-Tao||Yodawatama-Tao||Green||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166542.4||338.0||264.4||250.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||114||Zaos||Zaos||Blue||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166564.9||285.8||261.7||253.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||11C||Termina||Serijn Firoji||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166568.5||320.2||240.8||223.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||8C||Mojave I||Modawagosh-Omr||Blue||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166637.7||436.9||224.2||241.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||3A||Citadel||Munanjoen||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166574.3||270.4||164.9||186.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||C||Wanukihara||Wanukihara||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166585.1||280.6||136.9||166.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1F4||Gas Station IV||Gas Station IV||Red||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166577.8||112.0||356.3||411.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1C9||Remnant||Kakuil||Green||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166570.7||76.7||370.5||420.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1AE||Harshmellow||Harshmellow||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166568.5||51.6||379.8||427.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||168||Southern Cross||Yadda I||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166562.8||11.6||401.5||443.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||14B||Uozulunins||Uozulunins||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166564.2||18.8||401.0||443.0
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||BC||BarrenSlums||Goya||Green||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166569.3||75.1||415.4||454.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||90||ParadiseHaven||Redpalm Oasis||Green||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166591.1||125.1||357.9||411.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||109||Pregnant||Pregnant||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166591.3||129.8||351.5||407.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1AF||Hisomagoriokin||DragonGrove||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166573.3||73.1||369.2||419.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||8F||Last Bastion||Arumineosithb||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166578.5||83.5||390.0||434.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||AA||Osbo||Osbo||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166584.2||98.2||373.9||422.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||11E||BF166 Bot's First in Hub||BF166 Bot's First in Hub||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166580.4||84.2||366.8||417.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||18C||BF171 Half Dead||Kernow||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166613.5||309.0||139.7||199.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||99||BF172 Onseto||ROT Prime||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166625.0||347.0||250.0||280.0
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||9F||BF173 Irradiated Seas||BF173 Irradiated Seas||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166621.7||362.7||237.5||257.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||4E||BF174 Onsefo||BF174 Onsefo||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166611.4||360.9||87.3||162.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||D4||Razumi||Razumi||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166579.6||78.9||375.7||423.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||19||Nineteen Exp||Nineteen EXP||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166578.5||80.8||357.7||408.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||A8||Sapporozaw||Sapporo ZV||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166623.8||393.6||223.0||235.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||4B||Azuremyst Isle||North Pole||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166601.0||433.5||72.5||17.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||203||Moriyatamu XII||Moriyatamu XII||Green||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166593.6||407.5||152.4||197.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||11A||Yabeyantaram||Yabeyantaram||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166541.7||359.8||339.2||310.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||197||Tamamiashimad||Tamamiashimad||Green||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166535.1||341.3||334.2||309.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||108||Nabecimarc-Ves||Helleborus ZV||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166546.7||347.9||320.6||293.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||217||Aibarazaki-Onn||Blu-Ray ZV||Blue||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166523.9||383.1||372.0||341.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||8A||Kochimanon||Coachman||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166604.7||348.3||239.1||242.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||E0||Gakitsudam-Tuyk VIII||Gatsby||Green||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166604.8||339.7||228.5||235.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||F0||Meyamegashib VII||Wasteland ZV||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166546.8||283.6||287.4||276.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||200||Abayasenda||Abayasenda||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166540.7||311.2||311.4||293.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||A6||Onumaguchuo-Inhu III||Pink Riot ZV||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166611.4||353.1||210.8||222.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||DE||Rikariyamagas||Rika ZV||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166611.0||337.5||200.2||218.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||38||Konojolloydpori||Konojolloydpori||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166579.8||306.8||133.7||167.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||7A||Inuyamanto||Inuyamanto||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||155574.8||310.1||149.0||175.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||89||Tagajoneilo-Uwe||Tagajoneilo-Uwe||Red||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166633.7||407.4||197.6||224.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||8D||HUB-G-8D Chamcham||Zushunamin-Hutze||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166638.5||446.3||196.2||215.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||209||Lovecraft||Lovecraft||Red||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166573.2||383.5||146.9||148.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1A2||Merlot||Merlot||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166584.6||181.1||230.6||346.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||B3||Chloe's Grace||8mm||Red||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166597.0||199.9||219.2||287.0
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1F6||Sublime||Sublime||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166580.1||389.6||335.1||112.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1CA||Tatiana's Attest||Tatiana's Attest||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166562.2||36.9||376.1||418.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||181||Upper Somnus||Upper Somnus||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166564.5||32.5||374.8||417.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||119||Chrisubidon||Chrisubidon||Red||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166609.3||368.5||119.0||134.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||DC||Wraithbane's Harrow||Wraithbane's Harrow||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166588.4||216.5||227.5||278.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||30||Batagawajimiz||Batagawajimiz||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166614.1||333.7||179.0||207.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||3D||Ateyamagameo||Ateyamagameo||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166594.5||298.3||160.4||178.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||4||160||Urvahks||Urvahks||Blue||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166639.0||443.6||213.4||284.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||2E||Elysium||Elysium||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166622.7||378.0||221.6||238.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||6D||Gloam||Neko kubarazu||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166588.4||387.3||138.8||178.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||130||Spoingal's Folly||Spoingal's Folly||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166544.2||325.4||326.7||305.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||B4||Arusskogaetsk||Arusskogaetsk||Blue||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166522.7||416.0||572.8||557.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||9F||SH-4D||SH-4D||Blue||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166531.7||445.8||585.4||568.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||3A||Rotovskyvium||Rotovskyvium||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166528.5||388.7||522.5||505.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||69||Emryupinskovo||Emryupinskovo||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166525.6||356.0||467.8||449.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||F||Apolnikovy-Lunbu||Apolnikovy-Lunbu||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166528.9||349.3||429.4||408.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||3E||Vayevskyviumon||Vayevskyviumon||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166531.8||360.9||379.6||352.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||4||Sausage||Sausage||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166556.5||305.8||251.8||236.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||5||Kalvadus||Kalvadus||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166561.5||281.4||228.5||223.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1A6||Gashirosa||Gashirosa||Green||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166579.5||284.2||143.4||167.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||10||F2||Uninguryevsk X||Uninguryevsk X||Red||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166579.8||102.5||427.3||473.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1B||Perre_207||Perre_207||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166578.7||108.4||303.3||349.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||122||Otosakizum I||Otosakizum I||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166578.0||112.5||300.2||343.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1E4||Boba||Boba||Green||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166571.0||181.0||235.8||268.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||B1||Jabba||Jabba||Blue||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166607.2||317.5||238.3||255.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||7D||Unnanto||Unnanto||Red||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166620.4||337.1||241.0||268.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||129||Kagataganonojon||Kagataganonojon||Green||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166603.4||297.1||121.3||174.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1F||Not Special||Not Special||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166579.1||219.0||201.5||231.0
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||F||New Showbiz||New Showbiz||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166610.0||385.6||49.0||123.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||2C||Vex II||Romulan Empire||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166573.5||386.1||170.3||188.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||D1||Nobegashi IV||Nobegashi IV||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166599.4||311.9||206.7||218.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||8E||The Bluegrass System||The Bluegrass System||Blue||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166581.8||155.8||257.7||298.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||1E5||Prehistory II||Prehistory II||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166684.1||560.4||355.9||389.0
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||2||9C||BF165 Onsifi||BF165 Onsifi||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166532.5||347.9||531.0||366.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||11||A5||Mygejo (Traveler Lore Origin)||Mygejo (Traveler Lore Origin)||Green||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166601.9||459.8||153.5||100.0
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||214||Einhander||Einhander||Red||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166675.5||536.8||328.8||359.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||4||17E||Hov Infinity Star||Hov Infinity Star||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166662.9||596.0||287.4||336.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||2||17E||Galactic eXo Games||Galactic eXo Games||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166532.3||516.7||478.7||504.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||222||Skanaalsterbe||Skanaalsterbe||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166672.0||515.4||311.3||346.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||B||Imagine||Ichiyakojiri||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166594.9||286.3||120.3||169.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1DC||Jemima's Bristle||Jemima's Bristle||Red||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166572.9||83.1||333.2||380.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1CE||Uncle Typify||Gashi (AP)||Red||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166570.1||72.4||339.7||385.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1CD||Minstrel's Wake||StarFox Territory3||Red||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166557.3||50.0||370.2||408.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1CC||Eccles Prime||StarFox Territory2 [Ca]||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166556.4||48.8||373.6||411.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||184||Eclipse||StarFox Territory4 (x2AP)||Green||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166559.6||42.4||372.3||409.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||14E||Psychedelly||Psychedelly||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166580.7||100.5||323.6||373.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1B2||Something Something||Something Something||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166584.2||150.6||287.0||343.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||186||FirstEarthBase||FirstEarthBase||Red||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166572.5||85.8||321.5||365.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||135||Mobayasumoi||Mobayasumoi||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166579.9||105.8||309.6||356.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||11||152||Botany Bay||Botany Bay||Green||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166578.5||683.5||388.2||312.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||69||Kanoyamamot||Kanoyamamot||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166583.7||386.1||113.6||132.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||1CD||Eudromus Moribus||Eudromus Moribus||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166720.5||691.1||469.6||505.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||2B||Drakon Bellator||Drakon Bellator||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166716.0||670.4||487.0||519.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||11||1CE||HicSuntTriplicata||HicSuntTriplicata||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166589.5||678.8||333.3||261.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||29||Chimera Gramen||Chimera Gramen||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166715.6||678.3||463.3||494.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||4||199||Cold Sun||Cold Sun||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166649.8||557.1||240.3||290.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||4||1BD||BF184 Oneifo||BF184 Oneifo||Blue||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166678.3||630.5||400.1||459.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||2||F1||BF185 Oneifi||BF185 Oneifi||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166534.3||458.1||475.7||509.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||3||AD||Oneisi||Oneisi||Blue||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166584.0||651.2||467.2||497.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||3||D7||Variety Pack||Variety Pack||Blue||Vy'keen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166606.8||748.1||564.7||602.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||3||D2||BF188 Oneiei||BF188 Oneiei||Red||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166649.3||675.1||505.9||564.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||3||ED||BF189 Oceans And Rads||BF189 Oceans And Rads||Blue||Vy'keen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166588.8||761.4||614.0||650.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||C8||Lapith Virens||Lapith Virens||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166754.4||816.0||677.4||709.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||11||7B||Legkounitog-Teut||Red Horse||Red||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166608.1||674.1||365.7||298.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||8||4C||No Name (Aoxomoxoa)||No Name (Aoxomoxoa)||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166524.8||341.3||456.8||439.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||158||Todoroki||No Name (Aoxomoxoa)||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166576.3||201.8||229.7||255.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||70||Walley World!||Walley World!||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166601.1||341.7||94.8||161.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||3||B7||The Verse||The Verse||Blue||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166605.2||577.5||498.0||555.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||2||55||Rothfuss||Rothfuss||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166506.4||659.3||559.3||558.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||10||1D3||Fyodor||Fyodor||Green||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166563.8||370.0||711.6||771.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1C6||Zankuro||Zankuro||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166576.1||370.5||128.2||115.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||10||EC||Astora||Astora||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166584.8||151.6||478.9||533.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1D||Otenridum||Otenridum (x2AP x2Nip[fromPilot])||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166579.0||164.6||244.9||284.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||15A||Aniviez||Aniviez||Red||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166577.1||204.2||216.0||246.0
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||113||Watto||Watto (Good Orange Ships)||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166603.4||323.6||88.7||153.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||F2||Nodawajimito||Nodawajimito||Red||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166604.2||306.8||156.5||186.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||105||Tenritessari||Tenritessari (GB)||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166605.3||317.5||136.0||169.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1F1||Raktajino||Raktajino||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166586.7||414.6||111.9||124.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||13D||Sancti||Sancti||Red||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166584.6||200.1||210.2||250.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1F4||Sancti Sagua||Sancti Sagua||Red||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166577.8||112.0||356.3||411.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||D5||Actaeon||Actaeon||Green||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166591.2||127.8||338.7||391.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||150||Viko||Viko||Green||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166587.8||140.3||290.0||344.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||20B||Melogale Mosquata||Melogale Mosquata||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166563.1||79.8||335.1||376.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||133||n'Hyades||n'Hyades||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166575.4||67.3||356.8||403.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||167||Unajii||Unajii||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166682.2||542.2||430.4||464.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||11C||Cura Thoractin||Cura Thoractin||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166743.8||760.7||616.6||653.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||193||Palatua Cheloncid||Palatua Cheloncid||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166696.7||556.6||474.5||524.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||6||1E8||Tasaah V||Tassah V||Blue||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166649.3||499.9||344.6||78.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||1A1||Orson III||Orson III||Green||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166683.5||559.5||403.7||373.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||11||50||The Observatory||The Observatory||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166555.3||813.3||508.7||439.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||11||47||Uahak Penthouse||Uahak Penthouse||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166560.0||814.8||508.7||439.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||11||6F||Boson X||Boson X||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166552.9||801.1||503.7||433.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||4||65||Androvnyev Point||Androvnyev Point||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166640||641.3||301.0||328.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||4||57||Survosoyan||Survosoyan||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166642.2||592.4||||250.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||4||15E||Mitami||Mitami||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166659.7||500.9||264.9||330.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||4||1A7||Kugorskoyet||Kugorsoyet||Green||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166649.2||554.4||241.1||291.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||4||1AB||Oannikovos||Oannikovos||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166646.2||567.3||238.1||282.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||4||16A||Dyekha||Dyekha||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166657.4||581.1||251.8||296.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||4||166||Chyianamo||Chyianamo||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166675.2||630.1||349.1||401.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||20F||Derte Luun||Derte Luun||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166694.6||587.4||383.2||422.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||20C||Orens V||Orens V||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166680.9||533.8||374.2||410.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||19B||Gedis||Gedis||Red||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166693.6||584.3||420.1||453.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||4||1ED||Los Seis||Los Seis||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166643.6||544.7||239.9||291.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||2||3D||The Summit||The Summit||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166501.9||682.9||571.5||565.0
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||2||52||Lesser Yahbii||Lesser Yahbii||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166503.9||657.9||570.1||571.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||2||78||Greater Yahbii||Greater Yahbii||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166504.0||657.9||569.8||570.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||2||D7||Lesser Otsuru||Lesser Otsuru||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166504.1||662.7||574.3||575.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||2||E1||Greater Otsuru||Greater Otsuru||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166503.6||665.8||577.3||578.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1B6||Oes||Oes||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166563.7||129.2||292.8||324.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||10||210||Suelosoliin||Suelosoliin||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166557.4||109.0||404.3||452.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||10||A||Seiyo II||Seiyo II||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166593.2||179.9||482.5||537.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||8||18F||Borontona||Borontona||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166534.0||179.3||448.2||460.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||15B||Midoriya||Midoriya||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166579.4||208.6||207.7||240.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||165||Triangulum Beta||Triangulum Beta||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166591.0||358.1||125.5||114.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||17E||Triangulum Gamma||Triangulum Gamma||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166591.6||375.4||118.5||97.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||19A||Triangulum Alpha||Triangulum Alpha||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166594.5||368.8||107.9||97.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1AD||Desolation Hold||Rubeum||Red||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166601.7||412.6||35.8||73.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||29||Hello Games||Airborne||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166594.6||418.3||72.5||87.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||28||Nosedive||Nosedive||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166596.9||405.2||47.8||59.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||39||Golden Skies||Golden Skies||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166581.6||334.2||123.9||157.0
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||12B||Tribus Opimae Planetarum||Tribus Opimae Planetarum||Blue||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166684.3||600.6||411.0||427.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||146||Pagan Glory||Pagan Glory||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166682.7||574.6||415.3||437.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||17D||Mithras Acus||Mithras Acus||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166695.7||563.1||482.5||526.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||69||Interesti||Interesti||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166695.7||575.3||418.1||448.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||5C||Zoology Star II||Zoology Star II||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166690.5||579.6||424.3||455.0
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||2||Numan II||Numan II||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166665.4||513.6||337.5||359.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||4||34||Nova Inventa||Nova Inventa||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166661.6||593.0||313.5||367.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||1B8||Demaab||Demaab||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166695.8||544.4||493.8||550.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||219||Sthureloo||Sthureloo||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166713.5||706.7||425.5||453.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||79||The Kogii'ithip Black Hole||The Kogii'ithip Black Hole||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166729.1||733.7||592.7||534.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||172||HUB-K-172||HUB7-K-172||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166682.2||563.2||398.6||424.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||9||1F7||Celestis Prime||Celestis Prime||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166435.6||574.4||692.6||676.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||9||1D3||LowPost||LowPost||Red||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166419.7||612.6||826.8||835.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||2||DD||Fort Briggs||Fort Briggs||Red||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166522.9||448.6||410.7||421.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||2||48||Lemubut||Lemubut||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166546.4||387.1||304.1||321.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||8||3C||Tiriutiriutsii||Tiriutiriutsii||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166509.5||313.7||420.6||411.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||8F||Nebroo||Nebroo||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166767.8||919.5||723.9||740.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||1||Kogii'ithip Prime||Kogii'ithip Prime||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166666.0||495.2||306.0||328.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||128||Nimbus Research I||Nimbus Research I||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166697.3||618.5||454.2||480.0
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||11D||GekCommons||GekCommons||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166600.3||432.0||59.4||20.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||5||Theroma Star||Theroma Star||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166684.7||560.9||418.5||447.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||192||Bob Weir||Bob Weir||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166695.6||549.4||469.2||518.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||12||Manaforge Ara||Manaforge Ara||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166602.8||425.5||43.3||33.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||119||Alpha Quadrant||Alpha Quadrant||Red||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166727.2||672.4||588.6||639.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||2||D9 ||Cunabula||Cunabula||Yellow ||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166517.2||448.3||540.2||574.0
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||2A||Abacus||Abacus||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166584.7||409.5||111.2||117.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||8||100||Limbo||Limbo||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166492.3||454.7||623.9||604.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||149||Sugar Magnolia||Sugar Magnolia||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166697.9||561.6||498.6||548.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1DA||Octavia Epsilon||Octavia Epsilon||Red||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166591.1||410.1||91.6||111.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||10||1E5||Shiva's Tears||Shiva's Tears||Blue||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||1666633.190||479.8||770.0||822.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||4||1FF||The Narmer Empire||The Narmer Empire||Yellow||Vy'keen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166661.4||631.6||392.5||448.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||2||71||Hatorordning (Aderyt)||Aderyt||Yellow||Vy'keen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166504.4||476.6||528.0||548.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||BA||Unicycle||Unicycle||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166742.6||799.3||648.6||672.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||8||FA||GHubCapAntimatter||GHubCapAntimatter||Blue||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166546.3||156.3||439.0||457.0
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||D3||Ra's Nest||Ra's Nest||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166733.6||771.1||622.2||644.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||10||175||Point Yazu||Point Yazu||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166547.5||393.5||773.7||826.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||87||Majora's Mask||Majora's Mask||Yellow||Vy'keen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166747.0||816.6||664.6||688.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||4||D0||Yupin V||Yupin V||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166678.0||526.3||407.0||477.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||203||Tokeer||Tokeer||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166702.7||575.2||512.4||575.6
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||10||1C0||Ruuta I||Ruuta I||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166546.4||393.3||767.7||821.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||11||125||Ulkevinovv||Ulkevinovv||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166609.4||483.0||89.7||42.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||44||Macaroni & Stars||Macaroni & Stars||Yellow||Vy'keen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166705.3||626.3||476.1||509.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||129||Jewel of Kogii'ithip||Jewel of Kogii'ithip||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166709.8||671.4||536.4||560.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||56||Barbecue Star||Barbecue Star||Yellow||Vy'keen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166722.9||702.5||561.7||591.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||5||53||Avuss V||Avuss V||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166536.7||593.2||807.4||803.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||5||B7||Admou Ghaki||Pavaab||Yellow||Vy'keen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166575.0||477.6||601.4||596.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||55||710 Star||710 Star||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166709.6||635.7||493.4||529.1
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||43||Morning Star||Morning Star||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166709.5||633.5||475.5||512.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||39||Duplicata||Duplicata||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166727.5||723.5||566.5||594.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||10||20B||HUB10-G-20B aka HUB10-||HUB10-G-20B aka HUB10-||Yellow||Vykeen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166579.8||234.4||445.9||509.2
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1E6||Dancing Bear||Dancing Bear||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166585.1||310.6||137.6||185.8
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||13E||Game of Thrones||Game of Thrones||Yellow||Vy'keen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166709.7||649.8||524.3||555.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||B8||Loki, Trickster God||Loki, Trickster God||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166708.1||671.6||558.9||582.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||10F||Odin's Ravens||Odin's Ravens||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166711.1||661.5||549.6||579.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||11D||Unpleasantry||Unpleasantry||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166712.8||659.9||548.9||580.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||23||Freyja||Freyja||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166705.2||618.5||497.5||533.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||96||Sif||Sif||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166727.8||719.0||632.9||666.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||C2||Deadstar II||Deadstar II||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166728.3||713.5||618.9||653.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||108||Frigg||Frigg||Red||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166738.8||741.9||610.2||647.0
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||7B||Hecking Beans||Hecking Beans||Red||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166738.2||750.6||619.3||652.4
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||E4||Yggdrasil||Yggdrasil||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166735.5||751.1||592.4||621.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||3||D4||Asoiaf||Jeroh||Yellow||Gek
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166599.4||621.5||570.4||627.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|Home to Syn1334 on PS4, Galactic Hub founder. Home to ~8m diplo species.
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||1||1FA||Jubei||Ruokazumizu-Olzh||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166567.8||148.1||286.6||307.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|Home to the Fading Gerosaec multi-tool and a marked portal on PS4.
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||F8||Blob Star||Blob Star||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166745.7||794.4||640.5||668.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|Just a lot of blob ([[Lok]]) fauna.
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||11||3C||ButterBase||ButterBase||Yellow||Vy'Keen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||165698.6||794.4||640.5||668.3
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|UA-HUBx-V-3C_ButterBase
+|-
+|SystemTags||colspan="6"|ButterForTheKing
+|-
+|SystemPage||colspan="6"|UA-HUBx-V-3C_ButterBase
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||113||Harshmellow III||Harshmellow III||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166742.5||785.1||627.6||654.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|A 1-planet, 1-moon system with a Garden Room in the space station (for Subproject Eden).
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||1BF||GHub Galapagos||GHub Galapagos||Yellow||Vy'keen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166696.9||556.5||466.9||517.7
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|A 1-planet system with two Garden Rooms in its space station (for Subproject Eden). The beautiful lush planet has Rigogen and Vortex Cubes on pedestals.
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||4D||Asgard||Asgard||Yellow||Vy'keen
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166715.4||666.9||486.8||519.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|This 3-planet system features one frozen forest planet with a ~3.6m diplo species and ~6.2m t-rex species. Other two planets are lush and cold, but no fauna. Blaze Javelin basic tech available here.
+|-
+|SystemTags||colspan="6"|MatCo 100% Diplo
+|-
+|SystemPage||colspan="6"|[[HUB7-V-4D Asgard]]
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||6C|| ||Padluis||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166735.2||795.9|| ||
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|
+|-
+|SystemTags||colspan="6"|
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||E0||Rakenwagesnee||Rakenwagesnee||Green||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166761.3||846.3||684.5||714.5
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|Green star system with one beautiful Hot-climate planet, Augustus Autumni II.
+|-
+|SystemTags||colspan="6"|MatFr MatCn MatCo
+|-
+|SystemPage||colspan="6"|
+|}
+
+{| class="wikitable hubentry"
+! Info Type!! Hub Region !! Id !! PsName !! PcName !! Color !! Race
+|-
+|SystemData||7||DF||Pan the Green Man||Pan the Green Man||Yellow||Korvax
+|-
+!Info Type!! Distance 1 !! Distance 2 !! Distance 3 !! Distance  4
+|-
+|DistanceIds||0 ||17f_1|| 79_1|| 74_1
+|-
+|DistanceValues||166728.0||724.0||583.7||612.9
+|-
+! Info Type!! colspan="6"|Value
+|-
+|SystemDescription||colspan="6"|4-planet, 1-moon system. One lush moon with Emeril and Rigogen, one lush planet with no fauna, two barren planets, one hot with no fauna and Radnox.
+|-
+|SystemTags||colspan="6"|MatEm MatCu MatRi MatRa
+|-
+|SystemPage||colspan="6"|
+|}
